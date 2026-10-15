@@ -1,7 +1,7 @@
 ---
 name: benchmarkurgy
 description: "Use when creating, calibrating, or retiring AI evaluation benchmarks with contamination control and negative controls. 当需要创造、校准或退役 AI 评测基准，要求防污染与负对照时使用。"
-license: ARR
+license: apache-2.0
 type: term-registration
 namespace: lgd.terms
 version: v1.1
