@@ -11,7 +11,8 @@ family: meta-layer-creation
 related: [lgd-doctrine]
 ---
 
-[![LGD 86/100 four-angle](docs/lgd-combo.svg)](https://github.com/zhaoxinghua09-cell/benchmarkurgy)
+[![LGD 86/100](docs/lgd-main.svg)](https://github.com/zhaoxinghua09-cell/benchmarkurgy) [![四角度](docs/lgd-angles.svg)](https://github.com/zhaoxinghua09-cell/benchmarkurgy)
+
 
 # Benchmarkurgy · 基准工程术
 
